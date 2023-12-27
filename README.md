@@ -8,3 +8,6 @@ The front end was developed using streamlit
 
 
 <img width="643" alt="multiling" src="https://github.com/Varundatt2824/invoice_extractor/assets/73831955/5982c274-2547-4b03-9f9f-a1ae69672d95">
+[Multilanguage Invoice Extractor.pdf](https://github.com/Varundatt2824/invoice_extractor/files/13777178/Multilanguage.Invoice.Extractor.pdf)
+
+
